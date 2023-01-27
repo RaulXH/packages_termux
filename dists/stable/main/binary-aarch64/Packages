@@ -1,3 +1,16 @@
+Package: FotoSploit
+Version: 1.0
+Architecture: all
+Maintainer: @RaulXH
+Depends: resolv-conf,proot,php,curl,python2,jq,openssh,wget,file
+Filename: pool/main/fotosploit_1.0_all.deb
+Size: 42686772
+MD5sum: bdc94bdcee41a641c285199a07ba7cae
+SHA1: 4311aef16fabbe08f245ca00d1b61426295c115c
+SHA256: 9ceb5c61b445e05d4f08fd0e176ffe8bc4af873101ccc75be6950753b7bccbb0
+Homepage: https://github.com/Cesar-Hack-Gray/FotoSploit
+Description: Script programmed in bash for phishing, use ethically.
+
 Package: tmpmail
 Version: 0.1.0
 Architecture: all
