@@ -1,0 +1,18 @@
+Origin: Example Repository
+Label: Example
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: aarch64 arm
+Components: main
+Description: An example software repository
+Date: Fri, 27 Jan 2023 20:41:57 +0000
+MD5Sum:
+ 96c15027ea1bec72996ce6ea774fe031 453 main/binary-aarch64/Packages
+ f886056c93e031a1a6158a028c3627b6 356 main/binary-aarch64/Packages.gz
+SHA1:
+ 651f3d2b73ca283d29e2dc46b8a80438750b28a4 453 main/binary-aarch64/Packages
+ 33ca783e73302ffbbc21fa0cf8351586cdf48bd6 356 main/binary-aarch64/Packages.gz
+SHA256:
+ a76f96362e27918f6145222447561c8ef9b3f34d026f92d581f676c4fdd746ec 453 main/binary-aarch64/Packages
+ 6f59df6059c0580ce23e6060eac598cd9b1b0f8c8e12b6acb3b5e2baa0bbf865 356 main/binary-aarch64/Packages.gz

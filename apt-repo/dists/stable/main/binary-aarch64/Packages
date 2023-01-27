@@ -1,0 +1,14 @@
+Package: tmpmail
+Version: 0.1.0
+Architecture: all
+Maintainer: <@RaulXH>
+Installed-Size: 15
+Depends: jq, curl, w3m
+Filename: pool/main/tmpmail_0.1.0_all.deb
+Size: 5860
+MD5sum: 67acaa81e5badbe7561a1a5e73221c81
+SHA1: 523b022d4ef332e8e36325c5a444e8bdbe062446
+SHA256: 383c7bb2f25911b7e1a42818e183ec9cfcd7dfcce18328e461860b5e38da2523
+Homepage: https://github.com/sdushantha/tmpmail
+Description: A temporary email right from your terminal written in POSIX sh
+
