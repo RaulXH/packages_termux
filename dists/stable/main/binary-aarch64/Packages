@@ -11,6 +11,21 @@ SHA256: 9ceb5c61b445e05d4f08fd0e176ffe8bc4af873101ccc75be6950753b7bccbb0
 Homepage: https://github.com/Cesar-Hack-Gray/FotoSploit
 Description: Script programmed in bash for phishing, use ethically.
 
+Package: deobfuscate
+Version: 0.1.0
+Architecture: all
+Maintainer: RaulXH <github.com/RaulXH>
+Installed-Size: 13
+Depends: bash
+Filename: pool/main/binary-aarch64/deobfuscate_0.1.0_all.deb
+Size: 6856
+MD5sum: e80c5cec076f83c7183a6433cbfbc104
+SHA1: 2e60223eb1daf689167f0f85d886ac0146d6469c
+SHA256: 4f3c4d1de8bf1d53422fcfb7c32450af0be78a8a5c543f8d66f719b444dbb43f
+Homepage: https://github.com/RaulXH
+Description: This script is directed to deobfuscate scripts like: gzip, eval and all bases* 64,32...
+ In opposition to obfuscate (cesargray)
+
 Package: tmpmail
 Version: 1.2.3
 Architecture: all
