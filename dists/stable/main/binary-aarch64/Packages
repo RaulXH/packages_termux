@@ -3,7 +3,7 @@ Version: 1.0
 Architecture: all
 Maintainer: @RaulXH
 Depends: resolv-conf,proot,php,curl,python2,jq,openssh,wget,file
-Filename: pool/main/fotosploit_1.0_all.deb
+Filename: pool/main/binary-aarch64/fotosploit_1.0_all.deb
 Size: 42686772
 MD5sum: bdc94bdcee41a641c285199a07ba7cae
 SHA1: 4311aef16fabbe08f245ca00d1b61426295c115c
@@ -17,7 +17,7 @@ Architecture: all
 Maintainer: <@RaulXH>
 Installed-Size: 16
 Depends: jq, curl, w3m
-Filename: pool/main/tmpmail_1.2.3_all.deb
+Filename: pool/main/binary-aarch64/tmpmail_1.2.3_all.deb
 Size: 6104
 MD5sum: 4cd1c904fdf6613755b57099d1711325
 SHA1: 055216d9fba7aa27b1607a60106a5426654e2c3b
