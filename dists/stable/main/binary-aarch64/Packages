@@ -12,16 +12,16 @@ Homepage: https://github.com/Cesar-Hack-Gray/FotoSploit
 Description: Script programmed in bash for phishing, use ethically.
 
 Package: tmpmail
-Version: 0.1.0
+Version: 1.2.3
 Architecture: all
 Maintainer: <@RaulXH>
-Installed-Size: 15
+Installed-Size: 16
 Depends: jq, curl, w3m
-Filename: pool/main/tmpmail_0.1.0_all.deb
-Size: 5860
-MD5sum: 67acaa81e5badbe7561a1a5e73221c81
-SHA1: 523b022d4ef332e8e36325c5a444e8bdbe062446
-SHA256: 383c7bb2f25911b7e1a42818e183ec9cfcd7dfcce18328e461860b5e38da2523
+Filename: pool/main/tmpmail_1.2.3_all.deb
+Size: 6104
+MD5sum: 4cd1c904fdf6613755b57099d1711325
+SHA1: 055216d9fba7aa27b1607a60106a5426654e2c3b
+SHA256: d63512a0aa50d981989221227b5f7ab94f744b4ff9c3f4880e6906214cecf056
 Homepage: https://github.com/sdushantha/tmpmail
-Description: A temporary email right from your terminal written in POSIX sh
+Description: tmpmail is a command line utility written in POSIX sh that allows you to create a temporary email address and receive emails to the temporary email address.
 
